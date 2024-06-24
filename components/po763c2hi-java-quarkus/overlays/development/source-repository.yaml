@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: po763c2hi-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/po763c2hi-java-quarkus
